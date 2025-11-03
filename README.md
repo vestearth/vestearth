@@ -86,7 +86,7 @@
 **Fullstack Developer** @ **Gother**
 - Developing end-to-end web applications using modern technologies
 - Working with React, NextJS for frontend and PHP CodeIgniter for backend
-- Implementing Web3 integrations and blockchain technologies
+- Implementing Third party provider integrations
 - Managing databases with SQL and MongoDB
 - Utilizing Google Cloud services and monitoring with DataDog
 
