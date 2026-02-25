@@ -40,6 +40,14 @@ Currently working heavily on backend development, system design, API architectur
 - Choosing stack per project context
 - Deploying & maintaining production systems
 
+## 🏗 Systems I’ve Designed
+
+- **Unified provider integration layer:** Abstracting multiple external services into a single, cohesive internal API.
+- **Wallet & balance integrity system:** Ensuring transactional consistency and preventing race conditions in financial operations.
+- **Mission & reward engine:** Building scalable logic for complex user incentive programs.
+- **Transaction-safe payment flow:** Designing robust payment processing pipelines that handle edge cases gracefully.
+- **Scalable multi-service API architecture:** Creating structured, maintainable backend systems designed for high availability.
+
 ## 🛠 Tech Stack
 
 ### 🖥️ Backend & Server
@@ -49,11 +57,12 @@ Currently working heavily on backend development, system design, API architectur
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🎨 Frontend
+### 🎨 Frontend (when needed)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
